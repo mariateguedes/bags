@@ -14,6 +14,7 @@ function AboutContainer() {
       justifyContent="center"
       borderWidth="2.25px"
       color="bagsGray"
+      background="bagsWhite"
     >
       <Grid display="flex" alignItems="center" justifyContent="space-between">
         <Text as="b" fontSize="md" color="bagsBlack">

@@ -6,8 +6,8 @@ import ValueContainer from "./components/valueContainer";
 
 function MainPage() {
   return (
-    <Center top="50%">
-      <Grid maxW={{ base: "30%", sm: "60%", md: "55%" }} marginTop="10%">
+    <Center top="50%" height='100vh' backgroundColor='bagsSoftGray'>
+      <Grid maxW={{ base: "25%", sm: "60%", md: "55%" }}>
         <DetailsContainer />
         <ValueContainer />
         <AboutContainer />

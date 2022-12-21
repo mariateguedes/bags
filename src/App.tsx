@@ -49,7 +49,8 @@ const theme = extendTheme({
     bagsBlue: '#0051FF',
     bagsWhite: '#FFFFFF',
     bagsBlack: '#020202',
-    bagsGray: '#868686'
+    bagsGray: '#868686',
+    bagsSoftGray: '#F5F5F5'
   },
   fontSizes: {
     xsm: '14px',

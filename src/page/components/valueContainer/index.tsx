@@ -9,7 +9,7 @@ function ValueContainer() {
     <Box
       zIndex={1}
       marginTop={-2}
-      background="white"
+      background="bagsWhite"
       justifyContent="center"
       boxShadow="lg"
       borderBottomRadius={12}

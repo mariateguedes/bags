@@ -13,6 +13,7 @@ function DetailsContainer() {
       borderTopRadius={12}
       borderWidth="3px"
       color="bagsGray"
+      background="bagsWhite"
     >
       <Box
         marginRight={1}
