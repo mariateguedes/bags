@@ -25,14 +25,10 @@ const ButtonStyle = defineStyleConfig({
   },
   defaultProps: {
     variant: "bagsNormal",
-  },
+  }
 });
 
 const theme = extendTheme({
-  fonts: {
-    heading: `'Open Sans', sans-serif`,
-    body: `'Open Sans', sans-serif`,
-  },
   components: {
     Button: ButtonStyle,
   },
@@ -58,6 +54,10 @@ const theme = extendTheme({
     md: '20px',
     lg: '22px',
     xlg: '24px'
+  },
+  fonts: {
+    heading: '"Open Sans", "sans-serif"',
+    body: '"Open Sans", "sans-serif"',
   },
 });
 

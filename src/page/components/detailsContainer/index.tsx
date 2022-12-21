@@ -19,11 +19,13 @@ function DetailsContainer() {
         marginRight={1}
         as="legend"
         textAlign="right"
-        paddingX={7}
         borderRadius="lg"
         backgroundColor="bagsPurple"
+        width='121px'
+        height='24px'
+      
       >
-        <Text fontSize="xsm" color="bagsWhite">
+        <Text textAlign='center' fontSize="xsm" color="bagsWhite">
           Good Fit
         </Text>
       </Box>
