@@ -9,7 +9,7 @@ To initialize the project you will need:
 $ git clone https://github.com/mariateguedes/bags
 
 # Open the repository
-$ cd star-wars
+$ cd bags
 
 # Install the dependencies
 $ npm install
